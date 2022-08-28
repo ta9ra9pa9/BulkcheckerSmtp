@@ -1,0 +1,8 @@
+{	
+	"Version":" Version 2. By @ta9ra9pa9",
+	"email_to_test":"nemokisendi@yahoo.com",
+	"listname":"./list/a.txt", 
+	"host": "outlook.office365.com",
+	"telegram": "https://t.me/datanumbersunlimited",
+	"port": 587
+}
